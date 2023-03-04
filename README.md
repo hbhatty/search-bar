@@ -1,5 +1,5 @@
 ### Overview
-A search bar that takes in fake information from an api. 
+A search bar that takes in fake information from an api using react. 
 
 ## What I learned
 I was really lost initally because I didn't know how to first populate the results array, by sending it into a component.
